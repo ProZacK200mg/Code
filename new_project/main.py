@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import pygame as pg
-import random
 from player import *
 from settings import *
 
